@@ -26,6 +26,6 @@ Please note that as these projects are private, I kindly ask you to respect the 
 If you have any inquiries about the projects or would like to discuss potential job opportunities, feel free to contact me through the following channels:
 
 - Email: [birgador@gmail.com](mailto:birgadorl@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sergi-duaig%C3%BCes-76baba180)
 
 Thank you for visiting my GitHub repository, and I look forward to connecting with you soon!
